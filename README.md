@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dheeraj Kumar, student of gla univesity 👨‍ 🚀</div>  
+### <div align="center">I'm Dheeraj Kumar, Student of gla univesity 👨‍ 🚀</div>  
   
 
 - 🔭 I’m currently pursuing B.tech in computer science. 
