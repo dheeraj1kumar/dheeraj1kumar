@@ -1,4 +1,4 @@
-![logo](https://github.com/dheeraj1kumar/dheeraj1kumar/blob/main/istockphoto-976460088-1024x1024.jpg)
+![logo](https://github.com/dheeraj1kumar/dheeraj1kumar/blob/main/7j8s2h4erdejm82dyyn7.webp)
 <h1 align="center">Hi 👋, I'm Dheeraj Kumar</h1>
 <h3 align="center">A passionate Web Developer Engineer from India</h3>
 
